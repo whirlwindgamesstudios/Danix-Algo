@@ -1,0 +1,4218 @@
+{
+    "connections": [
+        {
+            "from_pin": "e7fed4c9-c178-81ef-c7a7-e7d14454b9f5",
+            "to_pin": "785b7125-c501-38c3-a4c1-b60f4aa88b92"
+        },
+        {
+            "from_pin": "OutPinEntry",
+            "to_pin": "1dbe3966-e6fe-14c5-df16-8f0c30800e7f"
+        },
+        {
+            "from_pin": "21c90e01-6a03-8aa3-aa69-4dbe8626b990",
+            "to_pin": "4624b118-e8c8-6b8e-50ec-84d4e008fed8"
+        },
+        {
+            "from_pin": "6c4e69ad-ea82-5f21-405a-a2e9405a2208",
+            "to_pin": "fe7b88c7-c35a-2b21-bec0-d6382c5edce8"
+        },
+        {
+            "from_pin": "fade107c-5cae-65b3-7fad-45d78614f49e",
+            "to_pin": "c834c071-b2f5-d6f8-7f5c-1b81e72612c8"
+        },
+        {
+            "from_pin": "9a0d9f60-20a7-aa9c-b5a5-dd9367df48e6",
+            "to_pin": "39d6a424-35ae-4827-4d13-e1467c5f1645"
+        },
+        {
+            "from_pin": "b004f748-b245-80de-e33a-e3171c903cab",
+            "to_pin": "56f1d4da-70eb-00bb-a1d3-a59360f79ac2"
+        },
+        {
+            "from_pin": "b9d7ff69-ba67-04c4-ff8e-dcc6c70348d4",
+            "to_pin": "5bbce178-229b-769a-a78d-84ed433e8bfa"
+        },
+        {
+            "from_pin": "aa721c9a-5276-026a-ea40-59727b14099a",
+            "to_pin": "e723b4c9-6797-0abf-6e29-2938d35d0af2"
+        },
+        {
+            "from_pin": "9eb9fe04-64e3-8c19-464c-2c8235c61099",
+            "to_pin": "ac4d1ef7-a40b-b0ad-e9f7-1b47e14e3ee3"
+        },
+        {
+            "from_pin": "291c6fc6-ec24-aa2c-8a19-1aef35a988b4",
+            "to_pin": "7598f9a8-ca0d-9a3e-cf62-d8e26333e6aa"
+        },
+        {
+            "from_pin": "7ce81243-bb94-ad2d-3c02-d369378698ed",
+            "to_pin": "97becde7-8c6e-8939-5f8a-3b13d07fd00b"
+        },
+        {
+            "from_pin": "332d7ea0-69e5-e95e-1224-1555e6f93973",
+            "to_pin": "3e070b8e-d059-edda-5b03-33ec4f1964a2"
+        },
+        {
+            "from_pin": "cce9e07e-cd41-2ea6-5008-b341580ab81e",
+            "to_pin": "a3754783-177b-d6b1-5d1b-0d9b7e0ffe00"
+        },
+        {
+            "from_pin": "14eb76d1-975b-a694-fdb1-694cf0fe724f",
+            "to_pin": "26362109-b43e-b5ed-1cc9-4185a194ceb2"
+        },
+        {
+            "from_pin": "5fd7ecea-69f1-41c5-5682-1095fec7c80b",
+            "to_pin": "a3e7d076-3d2e-0e07-3be3-e0b2781d4de4"
+        },
+        {
+            "from_pin": "d77972a5-a507-44fa-6b55-d3e8254204ad",
+            "to_pin": "27d0a1de-b4e6-ff90-cdaf-aee19f303bb3"
+        },
+        {
+            "from_pin": "332d7ea0-69e5-e95e-1224-1555e6f93973",
+            "to_pin": "ac763841-6590-954c-02bc-fb3d848f5a63"
+        },
+        {
+            "from_pin": "5fd7ecea-69f1-41c5-5682-1095fec7c80b",
+            "to_pin": "44899b6d-1c8a-4c25-5421-d32c441aad3d"
+        },
+        {
+            "from_pin": "9e493a24-27a0-84c6-0678-a47822b9eba0",
+            "to_pin": "55742c8d-c220-c1f5-ae07-d65fcd07077d"
+        },
+        {
+            "from_pin": "e59aac5c-90d1-5d83-a3e0-7c9f481d9090",
+            "to_pin": "6f524b33-67d3-5d00-391c-8751c59d80e1"
+        },
+        {
+            "from_pin": "52fbb6d1-e675-8457-bd28-46fa3a948a7c",
+            "to_pin": "244e1610-4a6c-0d29-4ca3-e62410cd2dd2"
+        },
+        {
+            "from_pin": "332d7ea0-69e5-e95e-1224-1555e6f93973",
+            "to_pin": "61e58bcf-c71b-8b3d-63ff-c7e3e6cf4fa5"
+        },
+        {
+            "from_pin": "649351da-c984-ec5b-ddba-297bf2d9587c",
+            "to_pin": "b43d3a50-cc60-1912-9503-89d4ef1d2162"
+        },
+        {
+            "from_pin": "45f26d2b-28a0-a900-e35b-e098c1a1f5ba",
+            "to_pin": "2c142b62-a572-99ee-0a63-775b0f478a53"
+        },
+        {
+            "from_pin": "175df38a-b7ac-fabb-fd09-f2acab1258c0",
+            "to_pin": "7ebfafc2-ba9f-d064-a810-693fcf62d453"
+        },
+        {
+            "from_pin": "fb58f279-c3df-5e70-51af-cfb83f94a846",
+            "to_pin": "748dcd9d-1da6-cea0-c61b-64dd972c8a78"
+        },
+        {
+            "from_pin": "8c5b9495-f860-09e8-795c-a1fdb52481ca",
+            "to_pin": "dc0a2071-849f-dd51-7fd9-1d7136f7b8a9"
+        },
+        {
+            "from_pin": "332d7ea0-69e5-e95e-1224-1555e6f93973",
+            "to_pin": "5addbacc-434a-4f7b-d494-d9a7efd14422"
+        },
+        {
+            "from_pin": "9a31b21e-9c8a-e905-f278-a40a7d1f810f",
+            "to_pin": "48889b05-aa2a-2cff-832b-70be69759b93"
+        },
+        {
+            "from_pin": "2cf2bd5d-8206-2cae-aace-cc33f740756d",
+            "to_pin": "3ae003b1-5710-a912-9783-b627e4799632"
+        },
+        {
+            "from_pin": "82437d25-70a9-82d0-23d6-efb869eee512",
+            "to_pin": "e3b85a8f-fa08-44c9-424a-e50b1e41f59a"
+        },
+        {
+            "from_pin": "13a4e4fc-b826-1c08-3058-657814dca570",
+            "to_pin": "c1142e27-2a9b-559e-73d5-752928379cb9"
+        },
+        {
+            "from_pin": "aa721c9a-5276-026a-ea40-59727b14099a",
+            "to_pin": "db16b513-0399-a6c3-b0eb-7106722a7980"
+        },
+        {
+            "from_pin": "f76f177f-521f-a7ba-3c25-5225ebc77d05",
+            "to_pin": "f79d2a5b-a514-e238-2420-015d01829f87"
+        },
+        {
+            "from_pin": "527dce2e-0d40-a09d-534d-bdc3e428e0d5",
+            "to_pin": "6b102c16-a18c-33a8-d16e-28fec0603122"
+        },
+        {
+            "from_pin": "e0f6a5f5-0419-81e2-fc78-a3c92b63c268",
+            "to_pin": "000626ed-a070-b8fe-a5b1-633e2ef751ad"
+        },
+        {
+            "from_pin": "b7c2f7c1-4ff2-18b6-c875-eb5562fde776",
+            "to_pin": "79218881-f97e-6b12-6337-875d1ed036fc"
+        },
+        {
+            "from_pin": "f43d3232-e65e-eff1-f833-854375a2b4ff",
+            "to_pin": "5232dc13-2b09-91f0-7283-94a19d082d6a"
+        },
+        {
+            "from_pin": "2c34817a-6a6d-1946-01f7-2a6b36862e4f",
+            "to_pin": "378375d9-99c9-49e9-0c2f-fd022b6dea85"
+        },
+        {
+            "from_pin": "1d6b9467-941c-9395-fdcf-3d4dbf8a7d29",
+            "to_pin": "a0b2f2db-98c2-8a82-e851-4f7b8cd1fc91"
+        },
+        {
+            "from_pin": "e2cc4d49-f454-c50f-38e0-1a1501c0f29a",
+            "to_pin": "dde01ad9-8308-4a14-b640-ce2a4d850517"
+        },
+        {
+            "from_pin": "f8cf66ad-f671-7b0f-b85a-e1aeb0e4ee94",
+            "to_pin": "f20678c3-f160-d193-9fae-000453cc1adc"
+        },
+        {
+            "from_pin": "69f33e1c-162d-8141-fa4c-bcf64dbd4116",
+            "to_pin": "9650a452-bdd8-8fb3-b661-ee9b4af95f2b"
+        },
+        {
+            "from_pin": "1d6b9467-941c-9395-fdcf-3d4dbf8a7d29",
+            "to_pin": "c54a57fc-6587-f79b-68bc-d8b4c89f86e4"
+        },
+        {
+            "from_pin": "1c12f74a-923e-7f98-3e5f-a9ae721f25b1",
+            "to_pin": "97c017f4-644b-18f2-0ed2-0a25c77da387"
+        },
+        {
+            "from_pin": "5d3f62c5-bbe8-70d0-e702-3a42c9dc29a9",
+            "to_pin": "7cc310c6-8cd5-36f4-14be-388290f9406f"
+        },
+        {
+            "from_pin": "e7fed4c9-c178-81ef-c7a7-e7d14454b9f5",
+            "to_pin": "b9c931a7-ca94-ab6c-4bea-6fd5ae0e587a"
+        },
+        {
+            "from_pin": "07538d50-b0fb-632a-b074-d0a58d66a5bf",
+            "to_pin": "f36e6df9-51b3-a748-9fb8-96d1eb4f9a02"
+        },
+        {
+            "from_pin": "bbf60765-f2c0-cd15-4852-618fb6117281",
+            "to_pin": "690212b2-721c-e91a-6639-e39dbb2bcb00"
+        },
+        {
+            "from_pin": "41dd123b-cbec-7ed1-b495-7bee6f7763df",
+            "to_pin": "7a2742b0-7c54-e196-8161-3193781f0eaa"
+        },
+        {
+            "from_pin": "c7e0d542-10cd-16ba-e869-9b6331166acb",
+            "to_pin": "592d1313-7cde-c5c6-0647-28f71aecfb88"
+        },
+        {
+            "from_pin": "0879256d-3a31-a8c8-fc04-b4e05529097c",
+            "to_pin": "830b2afe-51b2-eecf-f39e-af0587e0686a"
+        },
+        {
+            "from_pin": "4a3c4c9d-6800-8200-1076-35db6eac92a9",
+            "to_pin": "d5afd3c1-bb0d-6aa1-44ed-d59464a43f51"
+        },
+        {
+            "from_pin": "0879256d-3a31-a8c8-fc04-b4e05529097c",
+            "to_pin": "1407e85c-1763-461d-602c-787e0234607b"
+        },
+        {
+            "from_pin": "259ebced-c8f2-60ee-225a-10a5d8007ba5",
+            "to_pin": "e2d6a223-4a14-e797-2352-6b14f2463a56"
+        },
+        {
+            "from_pin": "b5329310-afb0-8130-8051-263d34ce7f01",
+            "to_pin": "f8050b47-3489-7ab1-5173-2a28f3c3dfab"
+        },
+        {
+            "from_pin": "16ec3b16-0fb7-3b88-cf57-a654d3f5ecea",
+            "to_pin": "e384f851-6778-81d9-503a-820ab35c65c8"
+        },
+        {
+            "from_pin": "4e48890e-6118-15cc-9670-8a8eaac82409",
+            "to_pin": "1dab59cc-726a-c8ce-8d42-888f2f56f4df"
+        },
+        {
+            "from_pin": "6f86ca86-ceb5-d5ab-e10f-1961263def97",
+            "to_pin": "39044271-4812-b43a-4053-fb32f65e545b"
+        },
+        {
+            "from_pin": "b238de28-9305-5421-664d-069440174201",
+            "to_pin": "15aa038e-c919-80e9-3507-fd8f6e160d6a"
+        },
+        {
+            "from_pin": "1be3a82c-c350-dd5d-f404-e61091cee879",
+            "to_pin": "00922d11-8722-2a43-860d-1b18ca5f6b0a"
+        },
+        {
+            "from_pin": "ca35a8bc-3219-3435-ecc7-29cd7f0e922b",
+            "to_pin": "503cb5b7-521c-9dd5-83ad-4726e1695ad2"
+        },
+        {
+            "from_pin": "5d55b049-86c9-2212-7c76-6bc0de8cd8ae",
+            "to_pin": "02f897a3-e81d-db73-aa19-c29d014f8f67"
+        },
+        {
+            "from_pin": "042907ca-2ce8-d4e1-2366-9d145bbf19e4",
+            "to_pin": "cc133bfa-d214-d80c-4385-03a216d86670"
+        },
+        {
+            "from_pin": "b77be02c-898f-c80a-1abd-eee1d1d42844",
+            "to_pin": "6fd282bd-5718-9c47-c711-56935fd42ea5"
+        },
+        {
+            "from_pin": "6f86ca86-ceb5-d5ab-e10f-1961263def97",
+            "to_pin": "f80bad86-e31f-7e5d-6172-859663861a85"
+        },
+        {
+            "from_pin": "397b3182-a3a6-64e9-522b-fd686d11561e",
+            "to_pin": "40ce9c89-3c2c-957b-b25a-8322c3ad5bc8"
+        },
+        {
+            "from_pin": "5c7a0669-65a3-1d6c-a8ed-5353f0ef242b",
+            "to_pin": "a828e2fb-f17d-6a36-af54-62f2d17a666f"
+        },
+        {
+            "from_pin": "0483f815-13b4-8104-ab99-cc80099a2fee",
+            "to_pin": "2a1e5065-5fe1-5aaf-ce2c-4923c88bdaaa"
+        },
+        {
+            "from_pin": "1be1c107-b888-7611-91e1-0430099afbde",
+            "to_pin": "d54dedcd-b974-ff13-cd20-618a420e74a6"
+        },
+        {
+            "from_pin": "9940fed2-c311-9fe6-4044-b9ce438df03f",
+            "to_pin": "be9e4a4c-6003-6925-1f9f-ca1f00f54d9a"
+        },
+        {
+            "from_pin": "3c1c6e45-b55e-dd67-4b5b-a6495924dd6a",
+            "to_pin": "e277e855-035d-1883-e6c4-9911e823df32"
+        },
+        {
+            "from_pin": "33a6dafc-fd4d-d4ca-76ba-8475ea76ab10",
+            "to_pin": "37d813c0-6146-20b2-9013-54a14a8a06b3"
+        },
+        {
+            "from_pin": "bd83ea01-0e87-b63c-e0c1-65d9b41d5a71",
+            "to_pin": "d42f7cfc-60b8-5561-825b-7fab7af9b1d4"
+        },
+        {
+            "from_pin": "c03da82c-e9e5-1eb5-a327-fef5271ff6a9",
+            "to_pin": "deef3913-559e-e6f2-59d7-f5ae337a77d6"
+        },
+        {
+            "from_pin": "cb949ed3-1ca3-12e4-5265-5da2863b47f2",
+            "to_pin": "4a64b392-9e91-6c9e-d203-5beb7ecca9db"
+        },
+        {
+            "from_pin": "c90b6764-7bab-2890-a0b2-c7d543a8256b",
+            "to_pin": "b4a1ca2e-1f90-7cb1-45b5-44bd37734869"
+        },
+        {
+            "from_pin": "7ae7b391-94dc-56f1-7e2e-705634256164",
+            "to_pin": "1ee23220-219c-cbcb-958e-04796f713171"
+        },
+        {
+            "from_pin": "9d6cb8b4-c1d8-09d2-95f5-7fbf4c188838",
+            "to_pin": "f984763b-9310-776b-08ee-d229e6f24cd9"
+        },
+        {
+            "from_pin": "1935d5c3-8828-7159-c72a-c7bde88a1105",
+            "to_pin": "64ab51fd-2665-b547-6fb2-ee5453f4c964"
+        },
+        {
+            "from_pin": "06c774da-5c1c-b671-7980-87def487650a",
+            "to_pin": "bca1c9e5-0063-2c8a-7fed-f14ccbe58d71"
+        },
+        {
+            "from_pin": "9188a70f-3a03-ed11-8c6f-ae5ff96aabe6",
+            "to_pin": "8dfd4f14-2598-0693-cdaf-6eaf912e5dfd"
+        },
+        {
+            "from_pin": "127e96b9-c976-b49e-4b18-06d7c692ae3b",
+            "to_pin": "4afc4c55-76d5-f7e0-1cde-f2a0524590f7"
+        },
+        {
+            "from_pin": "3fcad15d-010c-e476-e5ce-b744150b3628",
+            "to_pin": "44846c17-e20a-4348-6c6a-8407eab14776"
+        },
+        {
+            "from_pin": "cefb537a-7ac3-1ded-ef74-1babdf8cb68b",
+            "to_pin": "92ee4127-efb8-c886-3349-3cda3a9ddfbd"
+        },
+        {
+            "from_pin": "2f124214-c46d-df91-2ac4-058c87541053",
+            "to_pin": "c5bb884a-2b16-374e-cf99-2a554a416e19"
+        },
+        {
+            "from_pin": "1f814944-fdd5-e33f-660d-7319afdf61c2",
+            "to_pin": "e30469ee-f155-4fb9-0c29-0792a5cec316"
+        },
+        {
+            "from_pin": "5e0d9610-0542-a517-8c52-299b15293493",
+            "to_pin": "35227318-0bbd-2d3d-fe5b-f8da7474451b"
+        },
+        {
+            "from_pin": "ac3c29b9-f24d-6de5-325a-a34b7d764458",
+            "to_pin": "8dfd4f14-2598-0693-cdaf-6eaf912e5dfd"
+        },
+        {
+            "from_pin": "164de6e8-a7c6-2b32-b031-1de81366dfe3",
+            "to_pin": "08da846c-3ff7-316a-3148-2ecd8a55f7f2"
+        },
+        {
+            "from_pin": "cbeeee01-c488-dd79-1326-e79263d357dc",
+            "to_pin": "124b25e2-6406-0cc2-eb16-8faff6d10c34"
+        },
+        {
+            "from_pin": "908c55b8-d593-adf3-6e39-3e4ff366939a",
+            "to_pin": "358053fa-03f1-5382-1694-d9e0b8ca7afb"
+        },
+        {
+            "from_pin": "d01b2236-329d-05be-a144-e785b3806c84",
+            "to_pin": "36319db9-125b-68b7-6597-28663b6b3d55"
+        },
+        {
+            "from_pin": "e056245f-39cd-ef5f-3195-1112824d49fa",
+            "to_pin": "a2737b68-f201-ec9b-47a0-53c461f76a1c"
+        }
+    ],
+    "nodes": [
+        {
+            "data": null,
+            "guid": "006c229d-b188-75bf-ff40-a4d402207db7",
+            "inputs": [
+                {
+                    "guid": "748dcd9d-1da6-cea0-c61b-64dd972c8a78",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "378375d9-99c9-49e9-0c2f-fd022b6dea85",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "8c5b9495-f860-09e8-795c-a1fdb52481ca",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "298df684-b20d-3fc7-7a1d-b5fdde674c19",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "5417ce5d-c8f0-c803-4401-508c7714e9e5",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 789.0,
+                "y": 385.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": {
+                "variableGuid": "2a1d3bab-e1d0-451c-3749-ba4914828f5a"
+            },
+            "guid": "06cb5cb6-3216-65a4-9649-a99b80f44332",
+            "inputs": [],
+            "name": "Get BuyCounts",
+            "outputs": [
+                {
+                    "guid": "1f814944-fdd5-e33f-660d-7319afdf61c2",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 1464.0,
+                "y": 511.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "07aab8a1-b871-302a-d00e-1cd88660002b",
+            "inputs": [
+                {
+                    "guid": "e277e855-035d-1883-e6c4-9911e823df32",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "8cc0ac78-5e6d-768b-4c31-de3ca970fc16",
+                    "name": "Percent",
+                    "stored_bool": false,
+                    "stored_double": 100.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Bybit Margin Close Long",
+            "outputs": [
+                {
+                    "guid": "042907ca-2ce8-d4e1-2366-9d145bbf19e4",
+                    "name": "",
+                    "type": 0
+                },
+                {
+                    "guid": "303312b8-93cd-3c1a-6e31-c65cfc960972",
+                    "name": "Success",
+                    "type": 4
+                },
+                {
+                    "guid": "b77be02c-898f-c80a-1abd-eee1d1d42844",
+                    "name": "Price",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1660.0,
+                "y": -775.0
+            },
+            "size": {
+                "x": 200.0,
+                "y": 100.0
+            },
+            "type": "BybiyMarginCloseLongPositionNode"
+        },
+        {
+            "data": null,
+            "guid": "0ea32d2e-870c-3573-6ac8-7094cf7b74f3",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "527dce2e-0d40-a09d-534d-bdc3e428e0d5",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "7c758911-ffa8-9e5a-8920-d5ba4a3cb6f3",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "1d68cbbd-8f91-2c25-0fdf-de9cc62b433d",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "45557fd9-48bf-4a83-20f5-0cbd9e16418a",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "d648e4b0-43dd-5e79-adcf-3c42cf2aeb86",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "332d7ea0-69e5-e95e-1224-1555e6f93973",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "211b933b-903c-9679-b32d-07fdf7356c00",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "2c2160a7-56b3-0cc8-fb11-22a86605e77a",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 502.0,
+                "y": 841.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "0febe1ae-8ecb-a438-fe6f-4241d115bbc8",
+            "inputs": [
+                {
+                    "guid": "79218881-f97e-6b12-6337-875d1ed036fc",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                },
+                {
+                    "guid": "5232dc13-2b09-91f0-7283-94a19d082d6a",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Or",
+            "outputs": [
+                {
+                    "guid": "2c34817a-6a6d-1946-01f7-2a6b36862e4f",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 778.0,
+                "y": 546.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "BoolOrNode"
+        },
+        {
+            "data": null,
+            "guid": "12ef11bc-b7cc-bb1a-9703-e74e63cb696b",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "777b9fdb-5392-2363-b228-fcc8c9ead820",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "7e388b6d-6eda-3ba7-dfb3-9b49398f69c4",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "eae3d4fb-23c4-de38-dc06-c2de39bf8f3a",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "594f13e2-4c23-0d25-aec0-fd7bda2e8ece",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "052f11dc-46c4-276d-61cc-ecc4521a041b",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "397b3182-a3a6-64e9-522b-fd686d11561e",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "d43d81f0-b0fb-cefb-894e-5b365034816c",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "f0da5765-e144-034d-51c9-d8a396f0c9e9",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 275.0,
+                "y": -150.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "2097092b-53d8-d70d-70d4-6e687aae8dc9",
+            "inputs": [
+                {
+                    "guid": "c834c071-b2f5-d6f8-7f5c-1b81e72612c8",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "df7eb941-c7f4-2c44-94b4-7fa0369394d2",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.99,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "*",
+            "outputs": [
+                {
+                    "guid": "9940fed2-c311-9fe6-4044-b9ce438df03f",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 713.0,
+                "y": -319.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "DoubleMultiplyDoubleNode"
+        },
+        {
+            "data": {
+                "variableGuid": "a1bfff92-297c-6192-a0dc-f83c84ff03a8"
+            },
+            "guid": "245e5c76-43af-02e1-b439-2f5ab5197fb7",
+            "inputs": [
+                {
+                    "guid": "f20678c3-f160-d193-9fae-000453cc1adc",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "6fd282bd-5718-9c47-c711-56935fd42ea5",
+                    "name": "SL_Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Set SL_Price",
+            "outputs": [
+                {
+                    "guid": "69f33e1c-162d-8141-fa4c-bcf64dbd4116",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2478.0,
+                "y": -773.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "24743293-d9f1-8e0c-2147-b3362e600024",
+            "inputs": [
+                {
+                    "guid": "26362109-b43e-b5ed-1cc9-4185a194ceb2",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "e673336e-fdb1-16ea-1118-e5ea35b279f4",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.998,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "*",
+            "outputs": [
+                {
+                    "guid": "5fd7ecea-69f1-41c5-5682-1095fec7c80b",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1113.0,
+                "y": 1855.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "DoubleMultiplyDoubleNode"
+        },
+        {
+            "data": null,
+            "guid": "24df92bc-32e0-c9b3-71db-88c68708483f",
+            "inputs": [
+                {
+                    "guid": "c5e2a24a-724a-848b-4d5f-967e99bdb7a0",
+                    "name": "Period",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 250,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "8b166363-aabe-fa18-9f53-150550bef9b2",
+                    "name": "Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Highest",
+            "outputs": [
+                {
+                    "guid": "14eb76d1-975b-a694-fdb1-694cf0fe724f",
+                    "name": "Highest",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 911.0,
+                "y": 1814.0
+            },
+            "size": {
+                "x": 140.0,
+                "y": 100.0
+            },
+            "type": "HighestNode"
+        },
+        {
+            "data": {
+                "variableGuid": "bab299bd-5ed3-824c-f53d-f35077ad8eed"
+            },
+            "guid": "258e8ca2-2b08-10c6-5a0d-15c9823e6a3f",
+            "inputs": [
+                {
+                    "guid": "fe7b88c7-c35a-2b21-bec0-d6382c5edce8",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "d42f7cfc-60b8-5561-825b-7fab7af9b1d4",
+                    "name": "BoughtPrice",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Set BoughtPrice",
+            "outputs": [
+                {
+                    "guid": "e59aac5c-90d1-5d83-a3e0-7c9f481d9090",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2967.0,
+                "y": 385.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "26014150-dc1a-5863-07e6-f796d721697a",
+            "inputs": [
+                {
+                    "guid": "48889b05-aa2a-2cff-832b-70be69759b93",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "206d3e78-07ea-f04d-0858-9277388d1037",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 1.05,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "*",
+            "outputs": [
+                {
+                    "guid": "2cf2bd5d-8206-2cae-aace-cc33f740756d",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 539.0,
+                "y": 736.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "DoubleMultiplyDoubleNode"
+        },
+        {
+            "data": null,
+            "guid": "2b24c8fb-9f4d-8f51-ecbf-25184db5490b",
+            "inputs": [
+                {
+                    "guid": "244e1610-4a6c-0d29-4ca3-e62410cd2dd2",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "c556e7e9-1bea-68c1-6c12-7fcaa35107e1",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 1.01,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "*",
+            "outputs": [
+                {
+                    "guid": "45f26d2b-28a0-a900-e35b-e098c1a1f5ba",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1085.0,
+                "y": 1342.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "DoubleMultiplyDoubleNode"
+        },
+        {
+            "data": null,
+            "guid": "2b35c3c7-c8bc-319b-1168-1776e1b4f2d3",
+            "inputs": [
+                {
+                    "guid": "f36e6df9-51b3-a748-9fb8-96d1eb4f9a02",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "bf097056-3f35-10f4-49a2-203d6b15fa17",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 1,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "-",
+            "outputs": [
+                {
+                    "guid": "bbf60765-f2c0-cd15-4852-618fb6117281",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 1202.0,
+                "y": 770.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "IntMinusIntNode"
+        },
+        {
+            "data": {
+                "variableGuid": "2a1d3bab-e1d0-451c-3749-ba4914828f5a"
+            },
+            "guid": "31ff6fc5-6875-1cd4-a131-b77fb1c50e55",
+            "inputs": [
+                {
+                    "guid": "44846c17-e20a-4348-6c6a-8407eab14776",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "c5bb884a-2b16-374e-cf99-2a554a416e19",
+                    "name": "BuyCounts",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Set BuyCounts",
+            "outputs": [
+                {
+                    "guid": "a7fedec7-d243-8f67-7d45-7614b4a6cb16",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 3466.0,
+                "y": 384.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "3708ab08-681e-f6ca-b05f-adb6e455203e",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "8eba58c5-c64a-201c-27b8-89a64a7fde7b",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "7f2f96b8-e5b1-7c66-3240-7ace8c7c1c77",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "a6bf47c2-cc89-5fd1-a060-580bb0bb4cc6",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "b5b6ed30-c54c-5575-b9e3-c992d73ab840",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "f5f35625-0154-e76c-0506-44d55f215330",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "7ae7b391-94dc-56f1-7e2e-705634256164",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "fb5be71e-95d3-212e-e522-2b218e88d378",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "9b889de4-721b-0d56-526d-9457263dbe49",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 810.0,
+                "y": -785.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "3b88f5a0-eacb-a9a6-e1e7-394d021e219b",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "476fec57-6e2e-4342-207c-41f8cef95e59",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "ce7cfd01-142e-72ae-8936-e436f7d2d73a",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "257d6e4a-1a20-2b41-838f-2ded13924c5b",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "23a51a7f-afb4-999c-9f2a-011c8d2b49a9",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "17e26dd3-1b0c-ff7e-f8a4-9fa0e4534d33",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "1be1c107-b888-7611-91e1-0430099afbde",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "39724301-f35c-ca11-0616-bc80e83a4ebd",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "46bb6a33-acc1-b3eb-933c-3297598deb8a",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 552.0,
+                "y": -578.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "3d27bd4e-7801-42a6-a9fe-e288a1be0dfd",
+            "inputs": [
+                {
+                    "guid": "4afc4c55-76d5-f7e0-1cde-f2a0524590f7",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "aba9ced2-15b8-f30c-b48f-e63f0cdf57c1",
+                    "name": "Quantity",
+                    "stored_bool": false,
+                    "stored_double": 5.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "ff529636-7668-5cdb-760c-e53df387e7a2",
+                    "name": "Leverage",
+                    "stored_bool": false,
+                    "stored_double": 5.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Bybit Margin Open Long",
+            "outputs": [
+                {
+                    "guid": "4e48890e-6118-15cc-9670-8a8eaac82409",
+                    "name": "",
+                    "type": 0
+                },
+                {
+                    "guid": "d05553ff-f1ff-21d2-9d93-0b2e38394b7f",
+                    "name": "Success",
+                    "type": 4
+                },
+                {
+                    "guid": "bd83ea01-0e87-b63c-e0c1-65d9b41d5a71",
+                    "name": "Avg Price",
+                    "type": 3
+                },
+                {
+                    "guid": "0bcecc73-a6ca-30e7-b4c4-6be6845ae41e",
+                    "name": "Mark Price",
+                    "type": 3
+                },
+                {
+                    "guid": "6f86ca86-ceb5-d5ab-e10f-1961263def97",
+                    "name": "Liq Price",
+                    "type": 3
+                },
+                {
+                    "guid": "8c5921c1-da90-2c64-1d51-39030181b823",
+                    "name": "Bust Price",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 2049.0,
+                "y": 389.0
+            },
+            "size": {
+                "x": 180.0,
+                "y": 180.0
+            },
+            "type": "BybiyMarginLongNode"
+        },
+        {
+            "data": null,
+            "guid": "3e1c3032-f7e7-c749-a583-0a04a02299a7",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "07538d50-b0fb-632a-b074-d0a58d66a5bf",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "d65fb41e-f348-1918-dfd1-911bc64c3bf4",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "018f1a30-9efb-1935-afc1-21600bd4c5b8",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "590f4a41-31ad-21a4-1983-342245cf174e",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "4b96f666-95de-3c02-3d05-b97bf24e7969",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "4a3c4c9d-6800-8200-1076-35db6eac92a9",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "4a1a247f-37bd-36b4-647a-b1a4aa12c091",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "70cd4ebc-f710-d09a-d3f1-3632f90a5e09",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 993.0,
+                "y": 815.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "40a139ad-8dc4-d6c7-a6ab-d17b7c698952",
+            "inputs": [
+                {
+                    "guid": "7cc310c6-8cd5-36f4-14be-388290f9406f",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "b9c931a7-ca94-ab6c-4bea-6fd5ae0e587a",
+                    "name": "Candle",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "f80bad86-e31f-7e5d-6172-859663861a85",
+                    "name": "Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "88d29ef4-ab88-c792-8837-b88d48ca8d15",
+                    "name": "R",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 115,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "483c2070-3f3e-f172-c53d-a32febcb102e",
+                    "name": "G",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 115,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "13cb7558-952b-fd4f-2967-b4c90111169b",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 115,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "f6555f7c-40a7-5cc0-7588-36729d87ff33",
+                    "name": "Label",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "LiqLevel",
+                    "type": 5
+                }
+            ],
+            "name": "Add Mark",
+            "outputs": [
+                {
+                    "guid": "33a6dafc-fd4d-d4ca-76ba-8475ea76ab10",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2599.0,
+                "y": 385.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 200.0
+            },
+            "type": "AddMarkNode"
+        },
+        {
+            "data": null,
+            "guid": "40f4d9bf-73b9-790e-d09c-12a1912a4944",
+            "inputs": [
+                {
+                    "guid": "7a2742b0-7c54-e196-8161-3193781f0eaa",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "3dd8cf16-dc24-111d-9068-6fafc046a050",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.98,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "*",
+            "outputs": [
+                {
+                    "guid": "0879256d-3a31-a8c8-fc04-b4e05529097c",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1161.0,
+                "y": 642.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "DoubleMultiplyDoubleNode"
+        },
+        {
+            "data": null,
+            "guid": "462d05e7-5b2f-a49c-9d95-6f7e012e4c71",
+            "inputs": [
+                {
+                    "guid": "40ce9c89-3c2c-957b-b25a-8322c3ad5bc8",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "a828e2fb-f17d-6a36-af54-62f2d17a666f",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "0483f815-13b4-8104-ab99-cc80099a2fee",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 582.0,
+                "y": -26.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleMoreThanNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9fe48abd-11a5-c6a4-5b8b-16f5467fd204"
+            },
+            "guid": "47a8e274-5817-aa78-4dd6-22bcfc3790db",
+            "inputs": [
+                {
+                    "guid": "7598f9a8-ca0d-9a3e-cf62-d8e26333e6aa",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "0b24c034-305d-63eb-de27-f97135fec141",
+                    "name": "InPosition",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Set InPosition",
+            "outputs": [
+                {
+                    "guid": "175df38a-b7ac-fabb-fd09-f2acab1258c0",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2145.0,
+                "y": -319.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "47bd46d8-8b99-54b8-acf3-6ae2b76f95c6",
+            "inputs": [
+                {
+                    "guid": "b43d3a50-cc60-1912-9503-89d4ef1d2162",
+                    "name": "A",
+                    "stored_bool": true,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                },
+                {
+                    "guid": "27d0a1de-b4e6-ff90-cdaf-aee19f303bb3",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Pure AND",
+            "outputs": [
+                {
+                    "guid": "0e3e973f-96ac-c9f7-e345-f55c99e43309",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1263.0,
+                "y": 1344.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "BoolAndNode"
+        },
+        {
+            "data": null,
+            "guid": "49b05df0-6b52-fb32-ca63-e52553550bc0",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "1d6b9467-941c-9395-fdcf-3d4dbf8a7d29",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "2644b655-a07a-133b-6c0a-11d537abf195",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "041e7b90-4b80-2aa5-3722-37e72816299a",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "8510eec8-e6bb-60cb-a11d-b239c08edaaf",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "7edffc60-91f8-94dc-dac1-215086dcf769",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "e056245f-39cd-ef5f-3195-1112824d49fa",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "8283f539-1785-d2b4-5814-7b02994492a6",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "dffae9fb-cd03-9998-7c41-4dd2d81c29a7",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 1841.0,
+                "y": -646.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9fe48abd-11a5-c6a4-5b8b-16f5467fd204"
+            },
+            "guid": "55be4f01-05ac-0bfe-e9f8-b9a267f58abc",
+            "inputs": [
+                {
+                    "guid": "ac4d1ef7-a40b-b0ad-e9f7-1b47e14e3ee3",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "4906941a-5933-d0b5-5f0f-48a0f92953c7",
+                    "name": "InPosition",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Set InPosition",
+            "outputs": [
+                {
+                    "guid": "cbeeee01-c488-dd79-1326-e79263d357dc",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2296.0,
+                "y": 95.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "5a5d61b2-f041-168e-0470-475fe5412eb5",
+            "inputs": [
+                {
+                    "guid": "92ee4127-efb8-c886-3349-3cda3a9ddfbd",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "6d5b1f5d-3ac1-f0a2-fd90-5e379c4536f2",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 1,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "+",
+            "outputs": [
+                {
+                    "guid": "2f124214-c46d-df91-2ac4-058c87541053",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 3458.0,
+                "y": 500.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "IntPlusIntNode"
+        },
+        {
+            "data": null,
+            "guid": "5a646ee3-746d-3a6e-04c3-c54718a7cf31",
+            "inputs": [
+                {
+                    "guid": "592d1313-7cde-c5c6-0647-28f71aecfb88",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "830b2afe-51b2-eecf-f39e-af0587e0686a",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "<",
+            "outputs": [
+                {
+                    "guid": "259ebced-c8f2-60ee-225a-10a5d8007ba5",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1475.0,
+                "y": 877.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleLessThanNode"
+        },
+        {
+            "data": {
+                "variableGuid": "bab299bd-5ed3-824c-f53d-f35077ad8eed"
+            },
+            "guid": "60b5c334-536f-6a0f-2c81-9326b2d8686c",
+            "inputs": [],
+            "name": "Get BoughtPrice",
+            "outputs": [
+                {
+                    "guid": "fade107c-5cae-65b3-7fad-45d78614f49e",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 552.0,
+                "y": -320.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "656996d1-3139-ebf7-b2be-5341d028fe80",
+            "inputs": [
+                {
+                    "guid": "dc0a2071-849f-dd51-7fd9-1d7136f7b8a9",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "e384f851-6778-81d9-503a-820ab35c65c8",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "9188a70f-3a03-ed11-8c6f-ae5ff96aabe6",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "d6b28a82-fa52-3281-66c9-8852b48d5321",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "3f643851-da58-2fa1-2a2c-46054332fce1",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1321.0,
+                "y": 384.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9d552eca-9966-ca2c-de63-08656bb84718"
+            },
+            "guid": "6ebcebc1-51ca-760b-f43e-8d8c79882a7b",
+            "inputs": [],
+            "name": "Get SL_Index",
+            "outputs": [
+                {
+                    "guid": "e0f6a5f5-0419-81e2-fc78-a3c92b63c268",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 483.0,
+                "y": 490.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "7428235b-fe54-f222-4574-a5b31807bef9",
+            "inputs": [
+                {
+                    "guid": "d5afd3c1-bb0d-6aa1-44ed-d59464a43f51",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "1407e85c-1763-461d-602c-787e0234607b",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "b5329310-afb0-8130-8051-263d34ce7f01",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1279.0,
+                "y": 981.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleMoreThanNode"
+        },
+        {
+            "data": null,
+            "guid": "754a71af-5182-71cf-9eed-3f96f03bce20",
+            "inputs": [
+                {
+                    "guid": "d54dedcd-b974-ff13-cd20-618a420e74a6",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "be9e4a4c-6003-6925-1f9f-ca1f00f54d9a",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "<",
+            "outputs": [
+                {
+                    "guid": "cb949ed3-1ca3-12e4-5265-5da2863b47f2",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 844.0,
+                "y": -345.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleLessThanNode"
+        },
+        {
+            "data": null,
+            "guid": "7db2caa3-0482-e419-694e-fbd390189173",
+            "inputs": [
+                {
+                    "guid": "a3754783-177b-d6b1-5d1b-0d9b7e0ffe00",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                },
+                {
+                    "guid": "55742c8d-c220-c1f5-ae07-d65fcd07077d",
+                    "name": "B",
+                    "stored_bool": true,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Pure AND",
+            "outputs": [
+                {
+                    "guid": "d77972a5-a507-44fa-6b55-d3e8254204ad",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1419.0,
+                "y": 1697.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "BoolAndNode"
+        },
+        {
+            "data": {
+                "variableGuid": "2a1d3bab-e1d0-451c-3749-ba4914828f5a"
+            },
+            "guid": "801276cd-9e44-66c7-4d8e-b089d5b48b77",
+            "inputs": [
+                {
+                    "guid": "124b25e2-6406-0cc2-eb16-8faff6d10c34",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "cc01708a-be42-dd06-8c73-f2733cbffa6d",
+                    "name": "BuyCounts",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Set BuyCounts",
+            "outputs": [
+                {
+                    "guid": "76a6a484-2df5-5e19-b3fb-e9b06ca5aea0",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2470.0,
+                "y": 95.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "8ae0481f-7da9-7a25-5d36-a614757dd11e",
+            "inputs": [
+                {
+                    "guid": "56f1d4da-70eb-00bb-a1d3-a59360f79ac2",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "3f008834-6300-bda8-3d3d-796fbf3aaa1a",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 1.03,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "*",
+            "outputs": [
+                {
+                    "guid": "5c7a0669-65a3-1d6c-a8ed-5353f0ef242b",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 479.0,
+                "y": 114.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "DoubleMultiplyDoubleNode"
+        },
+        {
+            "data": null,
+            "guid": "8c97a82c-2534-b963-39a5-38703744c3b3",
+            "inputs": [
+                {
+                    "guid": "3e070b8e-d059-edda-5b03-33ec4f1964a2",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "a3e7d076-3d2e-0e07-3be3-e0b2781d4de4",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "9e493a24-27a0-84c6-0678-a47822b9eba0",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1244.0,
+                "y": 1706.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleMoreThanNode"
+        },
+        {
+            "data": null,
+            "guid": "92beeb13-3752-028c-261a-26e0d9fd7ad2",
+            "inputs": [
+                {
+                    "guid": "15aa038e-c919-80e9-3507-fd8f6e160d6a",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "2474196a-e3da-f50d-5b58-e7e4e5776def",
+                    "name": "Percent",
+                    "stored_bool": false,
+                    "stored_double": 100.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Bybit Margin Close Long",
+            "outputs": [
+                {
+                    "guid": "1be3a82c-c350-dd5d-f404-e61091cee879",
+                    "name": "",
+                    "type": 0
+                },
+                {
+                    "guid": "415e7bb2-fa51-edc5-f4d6-9fd331c8c050",
+                    "name": "Success",
+                    "type": 4
+                },
+                {
+                    "guid": "5c7f94f4-a797-a2af-b5c8-f185830a9447",
+                    "name": "Price",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1591.0,
+                "y": 93.0
+            },
+            "size": {
+                "x": 200.0,
+                "y": 100.0
+            },
+            "type": "BybiyMarginCloseLongPositionNode"
+        },
+        {
+            "data": {
+                "variableGuid": "2a1d3bab-e1d0-451c-3749-ba4914828f5a"
+            },
+            "guid": "9525cb87-0554-7d4e-2c95-72310680e57c",
+            "inputs": [],
+            "name": "Get BuyCounts",
+            "outputs": [
+                {
+                    "guid": "cefb537a-7ac3-1ded-ef74-1babdf8cb68b",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 3292.0,
+                "y": 499.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "97e28ef3-0858-0a35-b4c9-daa1517c8eb4",
+            "inputs": [
+                {
+                    "guid": "8dfd4f14-2598-0693-cdaf-6eaf912e5dfd",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "35227318-0bbd-2d3d-fe5b-f8da7474451b",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "127e96b9-c976-b49e-4b18-06d7c692ae3b",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "ed29edad-ba19-c79a-6387-89ee3c818ccc",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "d324e63b-103f-ebdf-7c22-2114dddcb4c7",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1675.0,
+                "y": 384.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": {
+                "variableGuid": "bab299bd-5ed3-824c-f53d-f35077ad8eed"
+            },
+            "guid": "9afdd9a5-f6fb-5bc4-d6c9-47cf15556dea",
+            "inputs": [],
+            "name": "Get BoughtPrice",
+            "outputs": [
+                {
+                    "guid": "b004f748-b245-80de-e33a-e3171c903cab",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 275.0,
+                "y": 115.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "9c8a1728-050b-237d-5f89-75a29a64694c",
+            "inputs": [
+                {
+                    "guid": "ac763841-6590-954c-02bc-fb3d848f5a63",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "44899b6d-1c8a-4c25-5421-d32c441aad3d",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "<",
+            "outputs": [
+                {
+                    "guid": "b6e16474-d960-0f61-8135-42b3876a2841",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1370.0,
+                "y": 1860.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleLessThanNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9d552eca-9966-ca2c-de63-08656bb84718"
+            },
+            "guid": "9f5d67b6-82d3-300c-8e2b-a431425a2ed0",
+            "inputs": [
+                {
+                    "guid": "c1142e27-2a9b-559e-73d5-752928379cb9",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "f79d2a5b-a514-e238-2420-015d01829f87",
+                    "name": "SL_Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Set SL_Index",
+            "outputs": [
+                {
+                    "guid": "15c6d75e-d182-ecd8-c088-ce23bd8c4eca",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2487.0,
+                "y": -319.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": {
+                "variableGuid": "a1bfff92-297c-6192-a0dc-f83c84ff03a8"
+            },
+            "guid": "9f62bbab-b1a5-458e-6cf4-f12ee90a3949",
+            "inputs": [
+                {
+                    "guid": "e3b85a8f-fa08-44c9-424a-e50b1e41f59a",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "5a0e5aa7-70bc-0d2f-3bef-a84dfc612bf2",
+                    "name": "SL_Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Set SL_Price",
+            "outputs": [
+                {
+                    "guid": "3fcad15d-010c-e476-e5ce-b744150b3628",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 3291.0,
+                "y": 384.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9fe48abd-11a5-c6a4-5b8b-16f5467fd204"
+            },
+            "guid": "9f815e8b-3d9b-a892-a3be-2ecd91ab411b",
+            "inputs": [],
+            "name": "Get InPosition",
+            "outputs": [
+                {
+                    "guid": "21c90e01-6a03-8aa3-aa69-4dbe8626b990",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 253.0,
+                "y": 467.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "Entry",
+            "inputs": [],
+            "name": "Entry",
+            "outputs": [
+                {
+                    "guid": "OutPinEntry",
+                    "name": "Entry",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 251.0,
+                "y": 354.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "EntryNode"
+        },
+        {
+            "data": null,
+            "guid": "a3521b03-28dd-6310-3632-afce44c92ff0",
+            "inputs": [
+                {
+                    "guid": "7308ea48-6d89-7d2f-7c52-a7e3b6223e04",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "46cc32b6-6598-2ef1-e203-4fb5c414526b",
+                    "name": "Percent",
+                    "stored_bool": false,
+                    "stored_double": 100.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Bybit Margin Close Long",
+            "outputs": [
+                {
+                    "guid": "ca35a8bc-3219-3435-ecc7-29cd7f0e922b",
+                    "name": "",
+                    "type": 0
+                },
+                {
+                    "guid": "401e7b09-fa34-e6c7-ae51-34b3a369f726",
+                    "name": "Success",
+                    "type": 4
+                },
+                {
+                    "guid": "5d55b049-86c9-2212-7c76-6bc0de8cd8ae",
+                    "name": "Price",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1524.0,
+                "y": -322.0
+            },
+            "size": {
+                "x": 200.0,
+                "y": 100.0
+            },
+            "type": "BybiyMarginCloseLongPositionNode"
+        },
+        {
+            "data": null,
+            "guid": "a428b8ea-d9b1-f804-9258-e4fcbbc54c39",
+            "inputs": [
+                {
+                    "guid": "1ee23220-219c-cbcb-958e-04796f713171",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "f984763b-9310-776b-08ee-d229e6f24cd9",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "<",
+            "outputs": [
+                {
+                    "guid": "1935d5c3-8828-7159-c72a-c7bde88a1105",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1018.0,
+                "y": -512.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleLessThanNode"
+        },
+        {
+            "data": null,
+            "guid": "a617b9f0-8688-356f-7ad4-3e2abd73fbd4",
+            "inputs": [
+                {
+                    "guid": "1dbe3966-e6fe-14c5-df16-8f0c30800e7f",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "4624b118-e8c8-6b8e-50ec-84d4e008fed8",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "9a0d9f60-20a7-aa9c-b5a5-dd9367df48e6",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "fb58f279-c3df-5e70-51af-cfb83f94a846",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "d19137cd-1af8-1e4b-f19d-2f31ec38742d",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 468.0,
+                "y": 353.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": null,
+            "guid": "acd5bede-fa9f-c2fa-1f6c-dc5fdb3271dc",
+            "inputs": [
+                {
+                    "guid": "61e58bcf-c71b-8b3d-63ff-c7e3e6cf4fa5",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "2c142b62-a572-99ee-0a63-775b0f478a53",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "649351da-c984-ec5b-ddba-297bf2d9587c",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1063.0,
+                "y": 1218.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleMoreThanNode"
+        },
+        {
+            "data": null,
+            "guid": "ae171c6a-81e2-8763-1b5f-b04b0969e141",
+            "inputs": [
+                {
+                    "guid": "5addbacc-434a-4f7b-d494-d9a7efd14422",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "3ae003b1-5710-a912-9783-b627e4799632",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "f43d3232-e65e-eff1-f833-854375a2b4ff",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 676.0,
+                "y": 693.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleMoreThanNode"
+        },
+        {
+            "data": null,
+            "guid": "b00e61cd-1dcd-c2ca-41bc-6c98ab0a1493",
+            "inputs": [
+                {
+                    "guid": "25e8f349-da50-b87f-1948-a3871e20a6db",
+                    "name": "Period",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 20,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "f140fd51-b15d-1c10-11fe-8e983ba092cc",
+                    "name": "Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "SMA",
+            "outputs": [
+                {
+                    "guid": "52fbb6d1-e675-8457-bd28-46fa3a948a7c",
+                    "name": "SMA",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 970.0,
+                "y": 1447.0
+            },
+            "size": {
+                "x": 140.0,
+                "y": 100.0
+            },
+            "type": "SMANode"
+        },
+        {
+            "data": null,
+            "guid": "b07f0f31-4626-8843-9782-38509bde7c10",
+            "inputs": [
+                {
+                    "guid": "39d6a424-35ae-4827-4d13-e1467c5f1645",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "2a1e5065-5fe1-5aaf-ce2c-4923c88bdaaa",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "b238de28-9305-5421-664d-069440174201",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "c03da82c-e9e5-1eb5-a327-fef5271ff6a9",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "07436c2c-2972-932a-c120-f1d4e38db210",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 861.0,
+                "y": 114.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": null,
+            "guid": "b3a420f8-96a4-5ac3-053b-93a573ef2b21",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "b9d7ff69-ba67-04c4-ff8e-dcc6c70348d4",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "674d80d7-322e-5d45-b5f2-6498e2b650ea",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "b9492e4e-7b57-6a6a-d940-10c2e2dcf271",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "d0830a3f-cb40-7c93-392a-72d387e49bfb",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "d91d34c7-3eba-6b3f-a8ed-28541dec997b",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "908c55b8-d593-adf3-6e39-3e4ff366939a",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "70bb0487-bc7f-6c91-0bb4-178978f0fcf4",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "43fba649-9ab3-5bfe-01c5-391973248ba1",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 1876.0,
+                "y": 147.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "bb0ad66e-e132-d849-fa63-7c437b42f0f4",
+            "inputs": [
+                {
+                    "guid": "e30469ee-f155-4fb9-0c29-0792a5cec316",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "cc7e447c-82e3-af33-6434-b3f2f0813021",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 7,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "<",
+            "outputs": [
+                {
+                    "guid": "5e0d9610-0542-a517-8c52-299b15293493",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1614.0,
+                "y": 533.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "IntLessThanNode"
+        },
+        {
+            "data": null,
+            "guid": "bd7636b1-ae16-5ea7-20ac-56a084bc8c11",
+            "inputs": [
+                {
+                    "guid": "cc133bfa-d214-d80c-4385-03a216d86670",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "a0b2f2db-98c2-8a82-e851-4f7b8cd1fc91",
+                    "name": "Candle",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "a2737b68-f201-ec9b-47a0-53c461f76a1c",
+                    "name": "Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "29af4d7b-47c2-05e4-3329-f6977ba8b38c",
+                    "name": "R",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "6d5aa573-f620-cd03-4cfd-23ca88436b9f",
+                    "name": "G",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "4a6a2abe-4868-600e-f8c9-f16cacc23a23",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "d11b6e0c-1c98-ea39-278e-021ee96b5056",
+                    "name": "Label",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "Liq",
+                    "type": 5
+                }
+            ],
+            "name": "Add Mark",
+            "outputs": [
+                {
+                    "guid": "e2cc4d49-f454-c50f-38e0-1a1501c0f29a",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2113.0,
+                "y": -774.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 200.0
+            },
+            "type": "AddMarkNode"
+        },
+        {
+            "data": {
+                "variableGuid": "2a1d3bab-e1d0-451c-3749-ba4914828f5a"
+            },
+            "guid": "c20f00dc-7236-6dbf-97c8-016aa5275158",
+            "inputs": [
+                {
+                    "guid": "08da846c-3ff7-316a-3148-2ecd8a55f7f2",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "36ef7aaf-21b7-1738-e4c4-9420d6e6d726",
+                    "name": "BuyCounts",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Set BuyCounts",
+            "outputs": [
+                {
+                    "guid": "9e0acd9e-71cf-f79b-6dcc-016309d6744b",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2838.0,
+                "y": -772.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "c68f4831-8022-e4d1-1c25-aa77f5dc0738",
+            "inputs": [
+                {
+                    "guid": "db16b513-0399-a6c3-b0eb-7106722a7980",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "fc506cc7-8c27-7633-3a78-20e2d060ea7e",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 200,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "+",
+            "outputs": [
+                {
+                    "guid": "f76f177f-521f-a7ba-3c25-5225ebc77d05",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 1935.0,
+                "y": -94.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "IntPlusIntNode"
+        },
+        {
+            "data": {
+                "variableGuid": "a1bfff92-297c-6192-a0dc-f83c84ff03a8"
+            },
+            "guid": "c6aeed3e-ae02-3474-3b8c-87e769a8f66f",
+            "inputs": [],
+            "name": "Get SL_Price",
+            "outputs": [
+                {
+                    "guid": "9a31b21e-9c8a-e905-f278-a40a7d1f810f",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 386.0,
+                "y": 709.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": {
+                "variableGuid": "d133f1ba-31cc-7652-c073-fbec4b2f85bb"
+            },
+            "guid": "c9fb6031-f6e2-e1f2-44ed-589069cbde8b",
+            "inputs": [],
+            "name": "Get LiqPrice",
+            "outputs": [
+                {
+                    "guid": "9d6cb8b4-c1d8-09d2-95f5-7fbf4c188838",
+                    "name": "",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 808.0,
+                "y": -515.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 60.0
+            },
+            "type": "GetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "cd75fc32-5b48-194a-17cc-acf1a7d3adc4",
+            "inputs": [
+                {
+                    "guid": "97becde7-8c6e-8939-5f8a-3b13d07fd00b",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "aa48e78e-2e40-d4c6-1d39-df4caf1ab33a",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 60.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "cce9e07e-cd41-2ea6-5008-b341580ab81e",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1237.0,
+                "y": 1588.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "DoubleMoreThanNode"
+        },
+        {
+            "data": null,
+            "guid": "ce1e438e-fc16-7561-09da-19acfd1ffdf7",
+            "inputs": [
+                {
+                    "guid": "503cb5b7-521c-9dd5-83ad-4726e1695ad2",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "e723b4c9-6797-0abf-6e29-2938d35d0af2",
+                    "name": "Candle",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "36319db9-125b-68b7-6597-28663b6b3d55",
+                    "name": "Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "47d33784-5ef3-c394-df1e-000c370d66ba",
+                    "name": "R",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "faedd74a-66bd-01fc-0612-29e0ab86ec29",
+                    "name": "G",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "a0b6ab54-5c60-30e1-4a2c-e601a4568c66",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "c94ff0a7-99aa-6a79-9102-43ee0e0c3291",
+                    "name": "Label",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "sl",
+                    "type": 5
+                }
+            ],
+            "name": "Add Mark",
+            "outputs": [
+                {
+                    "guid": "291c6fc6-ec24-aa2c-8a19-1aef35a988b4",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 1945.0,
+                "y": -318.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 200.0
+            },
+            "type": "AddMarkNode"
+        },
+        {
+            "data": null,
+            "guid": "d4a89d26-10e0-4799-3d0c-465acb407c01",
+            "inputs": [
+                {
+                    "guid": "c54a57fc-6587-f79b-68bc-d8b4c89f86e4",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "57868962-ff6e-60eb-fd36-d116b16d655b",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "+",
+            "outputs": [
+                {
+                    "guid": "1c12f74a-923e-7f98-3e5f-a9ae721f25b1",
+                    "name": "",
+                    "type": 1
+                }
+            ],
+            "position": {
+                "x": 2350.0,
+                "y": -562.0
+            },
+            "size": {
+                "x": 90.0,
+                "y": 80.0
+            },
+            "type": "IntPlusIntNode"
+        },
+        {
+            "data": null,
+            "guid": "d7355d71-1513-4cb4-c9ad-128515834405",
+            "inputs": [
+                {
+                    "guid": "deef3913-559e-e6f2-59d7-f5ae337a77d6",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "4a64b392-9e91-6c9e-d203-5beb7ecca9db",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "c90b6764-7bab-2890-a0b2-c7d543a8256b",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "6e789dcc-70ae-90f8-fe7e-13ad5de2b764",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "4070c748-749d-eeb6-d59d-bb931a48779b",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1048.0,
+                "y": -202.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": {
+                "variableGuid": "d133f1ba-31cc-7652-c073-fbec4b2f85bb"
+            },
+            "guid": "d922340d-7a8f-6618-72c7-d61881ab2ce0",
+            "inputs": [
+                {
+                    "guid": "6f524b33-67d3-5d00-391c-8751c59d80e1",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "39044271-4812-b43a-4053-fb32f65e545b",
+                    "name": "LiqPrice",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Set LiqPrice",
+            "outputs": [
+                {
+                    "guid": "82437d25-70a9-82d0-23d6-efb869eee512",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 3125.0,
+                "y": 385.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "db1c9ba0-48ee-b1e1-091e-423bc71647f0",
+            "inputs": [
+                {
+                    "guid": "b4a1ca2e-1f90-7cb1-45b5-44bd37734869",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "64ab51fd-2665-b547-6fb2-ee5453f4c964",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Branch",
+            "outputs": [
+                {
+                    "guid": "3c1c6e45-b55e-dd67-4b5b-a6495924dd6a",
+                    "name": "True",
+                    "type": 0
+                },
+                {
+                    "guid": "ac3c29b9-f24d-6de5-325a-a34b7d764458",
+                    "name": "False",
+                    "type": 0
+                },
+                {
+                    "guid": "5941b660-b8c6-aaf7-d7a0-ffa73ace4732",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1205.0,
+                "y": -363.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 110.0
+            },
+            "type": "BranchNode"
+        },
+        {
+            "data": null,
+            "guid": "dbc4057a-cb99-ad0c-565d-0ee664bae92e",
+            "inputs": [
+                {
+                    "guid": "00922d11-8722-2a43-860d-1b18ca5f6b0a",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "5bbce178-229b-769a-a78d-84ed433e8bfa",
+                    "name": "Candle",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "358053fa-03f1-5382-1694-d9e0b8ca7afb",
+                    "name": "Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "7cb43682-e263-66c3-064f-85ab75dd1258",
+                    "name": "R",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "21431d34-6a2c-545d-364b-24e64c0f2ad0",
+                    "name": "G",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "c4d588b9-c3ea-f635-b24c-166fe6fa2e2e",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "d59185dd-dd53-e2ed-ba03-e5fc6d634956",
+                    "name": "Label",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "tp",
+                    "type": 5
+                }
+            ],
+            "name": "Add Mark",
+            "outputs": [
+                {
+                    "guid": "9eb9fe04-64e3-8c19-464c-2c8235c61099",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2129.0,
+                "y": 94.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 200.0
+            },
+            "type": "AddMarkNode"
+        },
+        {
+            "data": null,
+            "guid": "e66dcc74-7c64-b0cc-e467-d97ff96bb87f",
+            "inputs": [
+                {
+                    "guid": "0c20cb8d-11ae-00f3-3d17-074e9c42564e",
+                    "name": "Period",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 20,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "5c381d17-5b68-7da8-cbc8-1edbed9e3298",
+                    "name": "Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "SMA",
+            "outputs": [
+                {
+                    "guid": "41dd123b-cbec-7ed1-b495-7bee6f7763df",
+                    "name": "SMA",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 946.0,
+                "y": 538.0
+            },
+            "size": {
+                "x": 140.0,
+                "y": 100.0
+            },
+            "type": "SMANode"
+        },
+        {
+            "data": null,
+            "guid": "e7d80b25-ad61-c8e0-535b-540f3451aa17",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "e7fed4c9-c178-81ef-c7a7-e7d14454b9f5",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "891471ea-491f-cbef-421f-97eb8dc886d6",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "21b4e572-9778-f42c-1f8e-377c874372d3",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "008d7bee-9b1e-e50b-3c6b-f1f085ee6c61",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "779eeeaa-4429-91f8-3478-524a0be75246",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "06c774da-5c1c-b671-7980-87def487650a",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "af36be50-81d7-b2f1-2e2e-63f3be69c114",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "e29db871-70e2-eab0-928b-54359bbd1495",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 2049.0,
+                "y": 592.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": null,
+            "guid": "ea994021-9f66-4262-0242-cfe3ebf51d84",
+            "inputs": [],
+            "name": "Get Current Candle",
+            "outputs": [
+                {
+                    "guid": "aa721c9a-5276-026a-ea40-59727b14099a",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "b6d88230-aa5e-73ec-9954-8abb44651f08",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "fdd935fa-1700-9b5b-3f66-3db1776fc8ec",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "160f6106-7951-e59e-f450-a4d045a22a39",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "d84ef66d-e814-95de-4ed8-9bdd69ac1090",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "d01b2236-329d-05be-a144-e785b3806c84",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "b9315fee-0720-fd20-68e4-26f39caef138",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "c413334b-1c56-b918-c600-a557d01ff506",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 1687.0,
+                "y": -203.0
+            },
+            "size": {
+                "x": 160.0,
+                "y": 230.0
+            },
+            "type": "GetCurrentCandleDataNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9fe48abd-11a5-c6a4-5b8b-16f5467fd204"
+            },
+            "guid": "eaa1f3b8-3cbf-8997-6f88-60b0e9e6b60f",
+            "inputs": [
+                {
+                    "guid": "dde01ad9-8308-4a14-b640-ce2a4d850517",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "ee3a53d1-1c1a-e552-491b-48639dec8c65",
+                    "name": "InPosition",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Set InPosition",
+            "outputs": [
+                {
+                    "guid": "f8cf66ad-f671-7b0f-b85a-e1aeb0e4ee94",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2319.0,
+                "y": -773.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": {
+                "variableGuid": "a1bfff92-297c-6192-a0dc-f83c84ff03a8"
+            },
+            "guid": "ec212b97-27b1-faf8-afc0-b3779d8fcda9",
+            "inputs": [
+                {
+                    "guid": "7ebfafc2-ba9f-d064-a810-693fcf62d453",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "02f897a3-e81d-db73-aa19-c29d014f8f67",
+                    "name": "SL_Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                }
+            ],
+            "name": "Set SL_Price",
+            "outputs": [
+                {
+                    "guid": "13a4e4fc-b826-1c08-3058-657814dca570",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2304.0,
+                "y": -319.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "ec5d3dd9-7f6a-3d15-f5a6-093abda19c43",
+            "inputs": [
+                {
+                    "guid": "e2d6a223-4a14-e797-2352-6b14f2463a56",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                },
+                {
+                    "guid": "f8050b47-3489-7ab1-5173-2a28f3c3dfab",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Pure AND",
+            "outputs": [
+                {
+                    "guid": "16ec3b16-0fb7-3b88-cf57-a654d3f5ecea",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 1626.0,
+                "y": 914.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "BoolAndNode"
+        },
+        {
+            "data": null,
+            "guid": "ecbffe94-7cfd-41f0-0f82-05c9e8e275b3",
+            "inputs": [
+                {
+                    "guid": "1dab59cc-726a-c8ce-8d42-888f2f56f4df",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "785b7125-c501-38c3-a4c1-b60f4aa88b92",
+                    "name": "Candle",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "bca1c9e5-0063-2c8a-7fed-f14ccbe58d71",
+                    "name": "Price",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 3
+                },
+                {
+                    "guid": "f0fb3a08-5ce6-c29a-aa9a-f4ed80026946",
+                    "name": "R",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "a0bc88e6-0050-8dc1-e561-aa372d9f68a9",
+                    "name": "G",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 255,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "0591c543-3770-db00-517a-957cd636117e",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "67812a40-018c-b627-50ec-8e5e6027db90",
+                    "name": "Label",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "Long",
+                    "type": 5
+                }
+            ],
+            "name": "Add Mark",
+            "outputs": [
+                {
+                    "guid": "5d3f62c5-bbe8-70d0-e702-3a42c9dc29a9",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2404.0,
+                "y": 388.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 200.0
+            },
+            "type": "AddMarkNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9fe48abd-11a5-c6a4-5b8b-16f5467fd204"
+            },
+            "guid": "ecfde9e5-7d3c-dce0-7d36-f9e8a908af05",
+            "inputs": [
+                {
+                    "guid": "37d813c0-6146-20b2-9013-54a14a8a06b3",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "c3395552-9d56-4727-d55e-fa289c1f3934",
+                    "name": "InPosition",
+                    "stored_bool": true,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 4
+                }
+            ],
+            "name": "Set InPosition",
+            "outputs": [
+                {
+                    "guid": "6c4e69ad-ea82-5f21-405a-a2e9405a2208",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2805.0,
+                "y": 386.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": {
+                "variableGuid": "9d552eca-9966-ca2c-de63-08656bb84718"
+            },
+            "guid": "f4eff2b6-86e9-f1a5-511a-c43b935340fc",
+            "inputs": [
+                {
+                    "guid": "9650a452-bdd8-8fb3-b661-ee9b4af95f2b",
+                    "name": "",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 0
+                },
+                {
+                    "guid": "97c017f4-644b-18f2-0ed2-0a25c77da387",
+                    "name": "SL_Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Set SL_Index",
+            "outputs": [
+                {
+                    "guid": "164de6e8-a7c6-2b32-b031-1de81366dfe3",
+                    "name": "",
+                    "type": 0
+                }
+            ],
+            "position": {
+                "x": 2664.0,
+                "y": -773.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 80.0
+            },
+            "type": "SetVariableNode"
+        },
+        {
+            "data": null,
+            "guid": "fa7ba485-b3ec-b8e5-56af-5a671153a36b",
+            "inputs": [
+                {
+                    "guid": "690212b2-721c-e91a-6639-e39dbb2bcb00",
+                    "name": "Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "Get Candle",
+            "outputs": [
+                {
+                    "guid": "54d354f3-02f7-8c77-b81c-75e4ded7e0bd",
+                    "name": "Index",
+                    "type": 1
+                },
+                {
+                    "guid": "cc468f7c-b277-0549-a527-6fd1a4dd18e5",
+                    "name": "Timestamp",
+                    "type": 1
+                },
+                {
+                    "guid": "268893b8-13e3-cd3b-4d2f-1cdb204e6cd9",
+                    "name": "Open",
+                    "type": 3
+                },
+                {
+                    "guid": "92d91cd2-3301-81a6-44a8-8ff6a90246a4",
+                    "name": "High",
+                    "type": 3
+                },
+                {
+                    "guid": "4b3d1212-7624-54ef-eb21-85f2c73ca4fc",
+                    "name": "Low",
+                    "type": 3
+                },
+                {
+                    "guid": "c7e0d542-10cd-16ba-e869-9b6331166acb",
+                    "name": "Close",
+                    "type": 3
+                },
+                {
+                    "guid": "b05c1284-55ab-fac9-75d5-8f063433d5aa",
+                    "name": "Volume",
+                    "type": 2
+                },
+                {
+                    "guid": "bbe90506-e740-553b-0e05-29b03cb528fe",
+                    "name": "Mcap",
+                    "type": 2
+                }
+            ],
+            "position": {
+                "x": 1343.0,
+                "y": 642.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 230.0
+            },
+            "type": "GetCandleDataAtIndexNode"
+        },
+        {
+            "data": null,
+            "guid": "fcb300f2-1f82-4655-9775-7cc01f82921a",
+            "inputs": [
+                {
+                    "guid": "6e1f9792-e832-d5b5-4aea-90922327905e",
+                    "name": "Period",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 100,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "e899b8fb-3a81-879e-b4be-2978b2255bba",
+                    "name": "Index",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": "RSI",
+            "outputs": [
+                {
+                    "guid": "7ce81243-bb94-ad2d-3c02-d369378698ed",
+                    "name": "RSI",
+                    "type": 3
+                }
+            ],
+            "position": {
+                "x": 1049.0,
+                "y": 1574.0
+            },
+            "size": {
+                "x": 140.0,
+                "y": 100.0
+            },
+            "type": "RSINode"
+        },
+        {
+            "data": null,
+            "guid": "fd239001-1d02-b79b-42a7-fc03b1d70c34",
+            "inputs": [
+                {
+                    "guid": "6b102c16-a18c-33a8-d16e-28fec0603122",
+                    "name": "A",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                },
+                {
+                    "guid": "000626ed-a070-b8fe-a5b1-633e2ef751ad",
+                    "name": "B",
+                    "stored_bool": false,
+                    "stored_double": 0.0,
+                    "stored_float": 0.0,
+                    "stored_int": 0,
+                    "stored_string": "",
+                    "type": 1
+                }
+            ],
+            "name": ">",
+            "outputs": [
+                {
+                    "guid": "b7c2f7c1-4ff2-18b6-c875-eb5562fde776",
+                    "name": "",
+                    "type": 4
+                }
+            ],
+            "position": {
+                "x": 627.0,
+                "y": 587.0
+            },
+            "size": {
+                "x": 120.0,
+                "y": 90.0
+            },
+            "type": "IntMoreThanNode"
+        }
+    ],
+    "variables": [
+        {
+            "global": true,
+            "guid": "2a1d3bab-e1d0-451c-3749-ba4914828f5a",
+            "name": "BuyCounts",
+            "type": 1,
+            "value": 0
+        },
+        {
+            "global": true,
+            "guid": "9d552eca-9966-ca2c-de63-08656bb84718",
+            "name": "SL_Index",
+            "type": 1,
+            "value": 0
+        },
+        {
+            "global": true,
+            "guid": "9fe48abd-11a5-c6a4-5b8b-16f5467fd204",
+            "name": "InPosition",
+            "type": 4,
+            "value": false
+        },
+        {
+            "global": true,
+            "guid": "a1bfff92-297c-6192-a0dc-f83c84ff03a8",
+            "name": "SL_Price",
+            "type": 3,
+            "value": 0.0
+        },
+        {
+            "global": true,
+            "guid": "bab299bd-5ed3-824c-f53d-f35077ad8eed",
+            "name": "BoughtPrice",
+            "type": 3,
+            "value": 0.0
+        },
+        {
+            "global": true,
+            "guid": "d133f1ba-31cc-7652-c073-fbec4b2f85bb",
+            "name": "LiqPrice",
+            "type": 3,
+            "value": 0.0
+        }
+    ]
+}

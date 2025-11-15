@@ -32,9 +32,5 @@
 *.app
 /.vs
 /Danix/x64
-/Danix/x64
 *.tlog
-/Danix/Data
 /x64
-/Danix/x64
-Danix/license.dat
