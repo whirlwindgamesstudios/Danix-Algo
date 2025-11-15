@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{9958a704-ab35-46c1-8394-647e103761a8}</ProjectGuid>
+    <RootNamespace>Danix</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Danix.cpp" />
+    <ClCompile Include="Private\Blueprints\Node\Node.cpp" />
+    <ClCompile Include="Private\Blueprints\Node\Nodes\Nodes.cpp" />
+    <ClCompile Include="Private\Blueprints\BlueprintManager.cpp" />
+    <ClCompile Include="Private\Chart\CandleChart.cpp" />
+    <ClCompile Include="Private\Chart\CandleChartManager.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\BybitAPI.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\BybitMargin.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\BybitPriceCollector.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\BybitSpot.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\Bybitwebsocketclient.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\Bybitwebsocketmanager.cpp" />
+    <ClCompile Include="Private\Exchanges\Bybit\LiquidationCalculator.cpp" />
+    <ClCompile Include="Private\StatsManager\TradingStatsManager.cpp" />
+    <ClCompile Include="Private\Systems\Config\PlatformConfig.cpp" />
+    <ClCompile Include="Private\TabManager\EditorTab\EditorTab.cpp" />
+    <ClCompile Include="Private\TabManager\MainChartTab\BottomPanel\MainMenuBottomPanel.cpp" />
+    <ClCompile Include="Private\TabManager\MainChartTab\MainChartTab.cpp" />
+    <ClCompile Include="Private\TabManager\TabManager.cpp" />
+    <ClCompile Include="Public\Systems\GuidGenerator.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Public\Blueprints\Node\Node.h" />
+    <ClInclude Include="Public\Blueprints\Node\Nodes\Nodes.h" />
+    <ClInclude Include="Public\Blueprints\BlueprintManager.h" />
+    <ClInclude Include="Public\Chart\CandleChart.h" />
+    <ClInclude Include="Public\Chart\CandleChartManager.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\BybitAPI.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\BybitMargin.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\BybitPriceCollector.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\BybitSpot.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\BybitTypes.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\Bybitwebsocketclient.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\Bybitwebsocketmanager.h" />
+    <ClInclude Include="Public\Exchanges\Bybit\LiquidationCalculator.h" />
+    <ClInclude Include="Public\GUI\Color.h" />
+    <ClInclude Include="Public\StatsManager\TradingStatsManager.h" />
+    <ClInclude Include="Public\Systems\Config\PlatformConfig.h" />
+    <ClInclude Include="Public\Systems\RateLimiter.h" />
+    <ClInclude Include="Public\Systems\Security\Obfuscator.h" />
+    <ClInclude Include="Public\TabManager\EditorTab\EditorTab.h" />
+    <ClInclude Include="Public\TabManager\MainChartTab\BottomPanel\MainMenuBottomPanel.h" />
+    <ClInclude Include="Public\TabManager\MainChartTab\MainChartTab.h" />
+    <ClInclude Include="Public\TabManager\TabContent\TabContent.h" />
+    <ClInclude Include="Public\TabManager\TabManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="Config.ini">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+      <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
+      <FileType>Document</FileType>
+    </CopyFileToFolders>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
